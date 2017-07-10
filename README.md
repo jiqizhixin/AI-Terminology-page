@@ -4,7 +4,7 @@ The English-Chinese paired terminologies in Artificial Intelligence Domain
 ### [返回 Github 词汇集](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology)
 
 # Letter A
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/A.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -35,7 +35,7 @@ Average gradient|平均梯度|[1]
 Average-Pooling|平均池化|[1]
 
 # Letter B
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/B.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -67,7 +67,7 @@ Bootstrapping|自助法|[1]
 Break-Event Point／BEP|平衡点|[1]
 
 # Letter C
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/C.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -127,7 +127,7 @@ Cut point	|截断点|[1]
 Cutting plane algorithm |	割平面法|[1]
 
 # Letter D
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/D.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -166,7 +166,7 @@ Dynamic Fusion	|动态融合|[1]
 Dynamic programming|动态规划|[1]
 
 # Letter E
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/E.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -193,7 +193,7 @@ Exponential loss function |	指数损失函数|[1]
 Extreme Learning Machine/ELM|超限学习机|[1]
 
 # Letter F
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/F.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -215,7 +215,7 @@ Full-rank matrix|满秩矩阵|[1]
 Functional neuron|功能神经元|[1]
 
 # Letter G
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/G.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -244,7 +244,7 @@ Graph theory	|图论|[1]
 Ground-truth	|真相／真实|[1]
 
 # Letter H
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/H.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -266,7 +266,7 @@ Hypothesis|假设|[1]
 Hypothesis test|假设检验|[1]
 
 # Letter I
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/I.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -294,14 +294,14 @@ Isotonic regression	|等分回归|[1]
 Iterative Dichotomiser	|迭代二分器|[1]
 
 # Letter J
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/J.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
 Jensen-Shannon Divergence/JSD|JS 散度|[1]
 
 # Letter k
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/K.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -315,7 +315,7 @@ Knowledge base|知识库|[1]
 Knowledge Representation|	知识表征|[1]
 
 # Letter L
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/L.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -349,7 +349,7 @@ Long-Short Term Memory/LSTM|	长短期记忆|[1]
 Loss function|	损失函数|[1]
 
 # Letter M
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/M.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -392,7 +392,7 @@ Multi-response Linear Regression ／MLR	|多响应线性回归|[1]
 Mutual information|互信息|[1]
 
 # Letter N
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/N.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -425,7 +425,7 @@ Nuclear norm|核范数|[1]
 Numerical attribute|数值属性|[1]
 
 # Letter O
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/O.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -445,7 +445,7 @@ Overfitting	|过拟合／过配|[1]
 Oversampling|过采样|[1]
 
 # Letter P
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/P.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -481,7 +481,7 @@ Pruning|剪枝|[1]
 Pseudo-label|伪标记|[1]
 
 # Letter Q
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/Q.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -491,7 +491,7 @@ Quantum Computing|量子计算|[1]
 Quasi Newton method|拟牛顿法|[1]
 
 # Letter R
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/R.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -523,7 +523,7 @@ Rule Engine|规则引擎|[1]
 Rule learning|规则学习|[1]
 
 # Letter S
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/S.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -573,7 +573,7 @@ Symbolism|符号主义|[1]
 Synset|同义词集|[1]
 
 # Letter T
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/T.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -599,7 +599,7 @@ Turing Machine|图灵机|[1]
 Twice-learning|二次学习|[1]
 
 # Letter U
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/U.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -614,7 +614,7 @@ Unsupervised layer-wise training	|无监督逐层训练|[1]
 Upsampling	|上采样|[1]
 
 # Letter V
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/V.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -626,7 +626,7 @@ Viterbi algorithm|维特比算法|[1]
 Von Neumann architecture|冯 · 诺伊曼架构|[1]
 
 # Letter W
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/W.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -640,7 +640,7 @@ Word embedding|	词嵌入|[1]
 Word sense disambiguation|	词义消歧|[1]
 
 # Letter Z
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/Z.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
