@@ -1,7 +1,4 @@
-# Artificial-Intelligence-Terminology
-The English-Chinese paired terminologies in Artificial Intelligence Domain
-
-### [返回 Github 词汇集](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology)
+## [返回 Github 词汇集](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology)
 
 # Letter A
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/A.md)
