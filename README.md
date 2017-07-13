@@ -1,37 +1,12 @@
 ## [返回 Github 词汇集](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology)
 
-#### 目录
-
-- [Letter A](#letter_a)
-- [Letter B](#letter_b)
-- [Letter C](#letter_c)
-- [Letter D](#letter_d)
-- [Letter E](#letter_e)
-- [Letter F](#letter_f)
-- [Letter G](#letter_g)
-- [Letter H](#letter_h)
-- [Letter I](#letter_i)
-- [Letter J](#letter_j)
-- [Letter K](#letter_k)
-- [Letter L](#letter_l)
-- [Letter M](#letter_m)
-- [Letter N](#letter_n)
-- [Letter O](#letter_o)
-- [Letter P](#letter_p)
-- [Letter Q](#letter_q)
-- [Letter R](#letter_r)
-- [Letter S](#letter_s)
-- [Letter T](#letter_t)
-- [Letter U](#letter_u)
-- [Letter V](#letter_v)
-- [Letter W](#letter_w)
-- [Letter Z](#letter_z)
 
 索引|V1| V2| V3| V4| V5| V6| V7| V8| V9|V10
  ---|---|---|---|---|---|---|---|---|---|---
 **U1**|-[**Q**](#letter_q)-|-[**W**](#letter_w)-|-[**E**](#letter_e)-|-[**R**](#letter_r)-|-[**T**](#letter_t)-|-[**Y**](#letter_y)-|-[**U**](#letter_u)-|-[**I**](#letter_i)-|-[**O**](#letter_o)-|-[**P**](#letter_p)-
 **U2**|-[**A**](#letter_a)-|-[**S**](#letter_s)-|-[**D**](#letter_d)-|-[**F**](#letter_f)-|-[**G**](#letter_g)-|-[**H**](#letter_h)-|-[**J**](#letter_j)-|-[**K**](#letter_k)-|-[**L**](#letter_l)-|
 **U3**||-[**Z**](#letter_z)-|-[**X**](#letter_x)-|-[**C**](#letter_c)-|-[**V**](#letter_v)-|-[**B**](#letter_b)-|-[**N**](#letter_n)-|-[**M**](#letter_m)-||
+
 
 # Letter_A
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/A.md)
