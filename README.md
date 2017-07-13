@@ -1,6 +1,32 @@
 ## [返回 Github 词汇集](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology)
 
-# Letter A
+#### 目录
+- [Letter A](#Letter_A)
+- [Letter B](#Letter_B)
+- [Letter C](#Letter_C)
+- [Letter D](#Letter_D)
+- [Letter E](#Letter_E)
+- [Letter F](#Letter_F)
+- [Letter G](#Letter_G)
+- [Letter H](#Letter_H)
+- [Letter I](#Letter_I)
+- [Letter J](#Letter_J)
+- [Letter K](#Letter_K)
+- [Letter L](#Letter_L)
+- [Letter M](#Letter_M)
+- [Letter N](#Letter_N)
+- [Letter O](#Letter_O)
+- [Letter P](#Letter_P)
+- [Letter Q](#Letter_Q)
+- [Letter R](#Letter_R)
+- [Letter S](#Letter_S)
+- [Letter T](#Letter_T)
+- [Letter U](#Letter_U)
+- [Letter V](#Letter_V)
+- [Letter W](#Letter_W)
+- [Letter Z](#Letter_Z)
+
+# Letter_A
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/A.md)
 
 英文/缩写|汉语|来源&扩展
@@ -31,7 +57,7 @@ Automatic summarization|自动摘要|[1]
 Average gradient|平均梯度|[1]
 Average-Pooling|平均池化|[1]
 
-# Letter B
+# Letter_B
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/B.md)
 
 英文/缩写|汉语|来源&扩展
@@ -63,7 +89,7 @@ Bootstrap sampling|自助采样法／可重复采样／有放回采样|[1]
 Bootstrapping|自助法|[1]
 Break-Event Point／BEP|平衡点|[1]
 
-# Letter C
+# Letter_C
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/C.md)
 
 英文/缩写|汉语|来源&扩展
@@ -123,7 +149,7 @@ Curse of dimensionality|维度灾难|[1]
 Cut point	|截断点|[1]
 Cutting plane algorithm |	割平面法|[1]
 
-# Letter D
+# Letter_D
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/D.md)
 
 英文/缩写|汉语|来源&扩展
@@ -162,7 +188,7 @@ Dummy node	|哑结点|[1]
 Dynamic Fusion	|动态融合|[1]
 Dynamic programming|动态规划|[1]
 
-# Letter E
+# Letter_E
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/E.md)
 
 英文/缩写|汉语|来源&扩展
@@ -189,7 +215,7 @@ Exploding Gradient Problem|	梯度爆炸问题|[1]
 Exponential loss function |	指数损失函数|[1]
 Extreme Learning Machine/ELM|超限学习机|[1]
 
-# Letter F
+# Letter_F
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/F.md)
 
 英文/缩写|汉语|来源&扩展
@@ -211,7 +237,7 @@ Frequentist	|频率主义学派|[1]
 Full-rank matrix|满秩矩阵|[1]
 Functional neuron|功能神经元|[1]
 
-# Letter G
+# Letter_G
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/G.md)
 
 英文/缩写|汉语|来源&扩展
@@ -240,7 +266,7 @@ Gradient Descent|	梯度下降|[1]
 Graph theory	|图论|[1]
 Ground-truth	|真相／真实|[1]
 
-# Letter H
+# Letter_H
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/H.md)
 
 英文/缩写|汉语|来源&扩展
@@ -262,7 +288,7 @@ Hyperparameter|超参数|[1]
 Hypothesis|假设|[1]
 Hypothesis test|假设检验|[1]
 
-# Letter I
+# Letter_I
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/I.md)
 
 英文/缩写|汉语|来源&扩展
@@ -290,14 +316,14 @@ Isometric Mapping/Isomap|等度量映射|[1]
 Isotonic regression	|等分回归|[1]
 Iterative Dichotomiser	|迭代二分器|[1]
 
-# Letter J
+# Letter_J
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/J.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
 Jensen-Shannon Divergence/JSD|JS 散度|[1]
 
-# Letter k
+# Letter_k
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/K.md)
 
 英文/缩写|汉语|来源&扩展
@@ -311,7 +337,7 @@ K-Nearest Neighbours Algorithm/KNN|	K近邻算法|[1]
 Knowledge base|知识库|[1]
 Knowledge Representation|	知识表征|[1]
 
-# Letter L
+# Letter_L
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/L.md)
 
 英文/缩写|汉语|来源&扩展
@@ -345,7 +371,7 @@ Log-linear regression|	对数线性回归|[1]
 Long-Short Term Memory/LSTM|	长短期记忆|[1]
 Loss function|	损失函数|[1]
 
-# Letter M
+# Letter_M
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/M.md)
 
 英文/缩写|汉语|来源&扩展
@@ -388,7 +414,7 @@ Multiple linear regression|	多元线性回归|[1]
 Multi-response Linear Regression ／MLR	|多响应线性回归|[1]
 Mutual information|互信息|[1]
 
-# Letter N
+# Letter_N
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/N.md)
 
 英文/缩写|汉语|来源&扩展
@@ -421,7 +447,7 @@ Normalization|归一化|[1]
 Nuclear norm|核范数|[1]
 Numerical attribute|数值属性|[1]
 
-# Letter O
+# Letter_O
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/O.md)
 
 英文/缩写|汉语|来源&扩展
@@ -441,7 +467,7 @@ Output smearing|输出调制法|[1]
 Overfitting	|过拟合／过配|[1]
 Oversampling|过采样|[1]
 
-# Letter P
+# Letter_P
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/P.md)
 
 英文/缩写|汉语|来源&扩展
@@ -477,7 +503,7 @@ Proximal Gradient Descent/PGD|近端梯度下降|[1]
 Pruning|剪枝|[1]
 Pseudo-label|伪标记|[1]
 
-# Letter Q
+# Letter_Q
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/Q.md)
 
 英文/缩写|汉语|来源&扩展
@@ -487,7 +513,7 @@ Quantum computer|量子计算机|[1]
 Quantum Computing|量子计算|[1]
 Quasi Newton method|拟牛顿法|[1]
 
-# Letter R
+# Letter_R
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/R.md)
 
 英文/缩写|汉语|来源&扩展
@@ -519,7 +545,7 @@ Root node|根结点|[1]
 Rule Engine|规则引擎|[1]
 Rule learning|规则学习|[1]
 
-# Letter S
+# Letter_S
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/S.md)
 
 英文/缩写|汉语|来源&扩展
@@ -569,7 +595,7 @@ Symbolic learning|符号学习|[1]
 Symbolism|符号主义|[1]
 Synset|同义词集|[1]
 
-# Letter T
+# Letter_T
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/T.md)
 
 英文/缩写|汉语|来源&扩展
@@ -595,7 +621,7 @@ True Positive Rate/TPR|真正例率|[1]
 Turing Machine|图灵机|[1]
 Twice-learning|二次学习|[1]
 
-# Letter U
+# Letter_U
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/U.md)
 
 英文/缩写|汉语|来源&扩展
@@ -610,7 +636,7 @@ Unsupervised  learning|	无监督学习／无导师学习|[1]
 Unsupervised layer-wise training	|无监督逐层训练|[1]
 Upsampling	|上采样|[1]
 
-# Letter V
+# Letter_V
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/V.md)
 
 英文/缩写|汉语|来源&扩展
@@ -622,7 +648,7 @@ Version space|版本空间|[1]
 Viterbi algorithm|维特比算法|[1]
 Von Neumann architecture|冯 · 诺伊曼架构|[1]
 
-# Letter W
+# Letter_W
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/W.md)
 
 英文/缩写|汉语|来源&扩展
@@ -636,7 +662,7 @@ Within-class scatter matrix|	类内散度矩阵|[1]
 Word embedding|	词嵌入|[1]
 Word sense disambiguation|	词义消歧|[1]
 
-# Letter Z
+# Letter_Z
 [*Return*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/Z.md)
 
 英文/缩写|汉语|来源&扩展
