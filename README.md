@@ -10,7 +10,7 @@
 
 # _
 # Letter A
-[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/README.md)
+[*Return*](https://github.com/SyncedAI00/Artificial-Intelligence-Terminology/blob/master/A.md)
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
