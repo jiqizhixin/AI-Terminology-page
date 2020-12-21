@@ -1,16 +1,15 @@
 ## [Github 词汇集项目](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology)
-*（第二版）*
 
 索引|V1| V2| V3| V4| V5| V6| V7| V8| V9|V10
  :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-**U1**|[**Q**](#letter_q)|[**W**](#letter_w)|[**E**](#letter_e)|[**R**](#letter_r)|[**T**](#letter_t)|[**Y**](#letter_y)|[**U**](#letter_u)|[**I**](#letter_i)|[**O**](#letter_o)|[**P**](#letter_p)
-**U2**|[**A**](#letter_a)|[**S**](#letter_s)|[**D**](#letter_d)|[**F**](#letter_f)|[**G**](#letter_g)|[**H**](#letter_h)|[**J**](#letter_j)|[**K**](#letter_k)|[**L**](#letter_l)|
-**U3**||[**Z**](#letter_z)|[**X**](#letter_x)|[**C**](#letter_c)|[**V**](#letter_v)|[**B**](#letter_b)|[**N**](#letter_n)|[**M**](#letter_m)||
+**U1**|[**Q**](#q)|[**W**](#w)|[**E**](#e)|[**R**](#r)|[**T**](#t)|[**Y**](#w)|[**U**](#u)|[**I**](#i)|[**O**](#o)|[**P**](#p)
+**U2**|[**A**](#a)|[**S**](#s)|[**D**](#d)|[**F**](#f)|[**G**](#g)|[**H**](#h)|[**J**](#j)|[**K**](#k)|[**L**](#l)|
+**U3**||[**Z**](#z)|[**X**](#w)|[**C**](#c)|[**V**](#v)|[**B**](#b)|[**N**](#n)|[**M**](#m)||
 
 -----
 
-# Letter A
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/A.md)
+
+### A
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -59,8 +58,8 @@ Auto-regressive network|自回归网络|[1]
 Average gradient|平均梯度|[1]
 Average-Pooling|平均池化|[1]
 
-# Letter_B
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/B.md)
+
+### B
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -110,8 +109,8 @@ Bridge sampling|桥式采样|[1]
 Broadcasting|广播|[1]
 Burning-in|磨合|[1]
 
-# Letter_C
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/C.md)
+
+### C
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -198,8 +197,8 @@ Curve-fitting|曲线拟合|[1]
 Cut point	|截断点|[1]
 Cutting plane algorithm |	割平面法|[1]
 
-# Letter_D
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/D.md)
+
+### D
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -260,8 +259,7 @@ Dynamic Fusion	|动态融合|[1]
 Dynamic programming|动态规划|[1]
 
 
-# Letter_E
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/E.md)
+### E
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -301,8 +299,7 @@ Exponential loss function |	指数损失函数|[1]
 Extreme Learning Machine/ELM|超限学习机|[[1]](https://www.jiqizhixin.com/articles/2016-09-30-3)
 
 
-# Letter_F
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/F.md)
+### F
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -337,8 +334,7 @@ Functional derivative|泛函导数|[1]
 Functional neuron|功能神经元|[1]
 
 
-# Letter_G
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/G.md)
+### G
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -376,8 +372,8 @@ Graph theory	|图论|[[1]](https://www.jiqizhixin.com/articles/2017-04-04-4)
 Grid search	|网格搜索|[1]
 Ground-truth	|真相／真实|[1]
 
-# Letter_H
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/H.md)
+
+### H
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -400,8 +396,7 @@ Hypothesis|假设|[1]
 Hypothesis test|假设检验|[1]
 
 
-# Letter_I
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/I.md)
+### I
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -437,15 +432,15 @@ Isometric Mapping/Isomap|等度量映射|[1]
 Isotonic regression	|等分回归|[1]
 Iterative Dichotomiser	|迭代二分器|[1]
 
-# Letter_J
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/J.md)
+
+### J
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
 Jensen-Shannon Divergence/JSD|JS 散度|[1]
 
-# Letter_k
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/K.md)
+
+### K
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -460,8 +455,8 @@ Knowledge Engineering|知识工程|[1]
 Knowledge graph|知识图谱|[[1]](https://www.jiqizhixin.com/articles/2017-11-03-5)/[[2]](https://www.jiqizhixin.com/articles/2017-11-03-24)/[[3]](https://www.jiqizhixin.com/articles/2017-09-26-8)
 Knowledge Representation|	知识表征|[1]
 
-# Letter_L
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/L.md)
+
+### L
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -509,8 +504,7 @@ Loss function|	损失函数|[[1]](https://www.jiqizhixin.com/articles/2018-01-03
 Low rank matrix approximation|低秩矩阵近似|[1]
 
 
-# Letter_M
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/M.md)
+### M
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -570,8 +564,8 @@ Multi-response Linear Regression/MLR	|多响应线性回归|[1]
 Multivariate normal distribution|多维正态分布|[1]
 Mutual information|互信息|[1]
 
-# Letter_N
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/N.md)
+
+### N
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -610,8 +604,8 @@ Nuclear norm|核范数|[1]
 Numerical attribute|数值属性|[1]
 Numerical optimization|数值优化|[1]
 
-# Letter_O
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/O.md)
+
+### O
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -637,8 +631,8 @@ Overcomplete|过完备|[1]
 Overfitting	|过拟合／过配|[1]
 Oversampling|过采样|[1]
 
-# Letter_P
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/P.md)
+
+### P
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -683,8 +677,8 @@ Proximal Gradient Descent/PGD|近端梯度下降|[1]
 Pruning|剪枝|[[1]](https://www.jiqizhixin.com/articles/2017-09-26)
 Pseudo-label|伪标记|[1]
 
-# Letter_Q
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/Q.md)
+
+### Q
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -697,8 +691,7 @@ Quasi Newton method|拟牛顿法|[[1]](https://www.jiqizhixin.com/articles/2017-
 Quasi-concave|拟凹|[1]
 
 
-# Letter_R
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/R.md)
+### R
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -737,8 +730,7 @@ Rule Engine|规则引擎|[1]
 Rule learning|规则学习|[1]
 
 
-# Letter_S
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/S.md)
+### S
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -821,8 +813,7 @@ Synset|同义词集|[1]
 Synthetic feature|合成特征|[1]
 
 
-# Letter_T
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/T.md)
+### T
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -855,8 +846,8 @@ Turing Machine|图灵机|[[1]](https://www.jiqizhixin.com/articles/2017-04-11-7)
 Twice-learning|二次学习|[1]
 Two-dimensional array|二维数组|[1]
 
-# Letter_U
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/U.md)
+
+### U
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -879,8 +870,8 @@ Unsupervised layer-wise training	|无监督逐层训练|[1]
 Upper Confidence Bounds|上置信界限|[1]
 Upsampling	|上采样|[1]
 
-# Letter_V
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/V.md)
+
+### V
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -894,8 +885,8 @@ Virtual adversarial example|虚拟对抗样本|[1]
 Viterbi algorithm|维特比算法|[1]
 Von Neumann architecture|冯 · 诺伊曼架构|[1]
 
-# Letter_W
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/W.md)
+
+### W
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
@@ -909,8 +900,8 @@ Within-class scatter matrix|	类内散度矩阵|[1]
 Word embedding|	词嵌入|[[1]](https://www.jiqizhixin.com/articles/2017-11-20-3)
 Word sense disambiguation|	词义消歧|[1]
 
-# Letter_Z
-[*source*](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology/blob/master/data/Z.md)
+
+### Z
 
 英文/缩写|汉语|来源&扩展
 ---|---|---
